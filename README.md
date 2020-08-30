@@ -1,5 +1,5 @@
 # devops-aula03
 
-robert downey jr
-jim carrey
-Will Smith
+robert downey jr  
+jim carrey  
+Will Smith  
